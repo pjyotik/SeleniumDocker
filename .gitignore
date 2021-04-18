@@ -1,1 +1,7 @@
 /target/
+.idea
+/test-output
+.settings
+SeleniumDocker.iml
+.classpath
+.project

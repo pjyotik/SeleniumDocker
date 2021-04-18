@@ -1,6 +1,3 @@
-/**
- * 
- */
 package dockerSuite;
 
 import java.net.MalformedURLException;
